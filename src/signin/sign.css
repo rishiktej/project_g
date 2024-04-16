@@ -1,0 +1,83 @@
+.s1 {
+  position: absolute;
+  top: 247px;
+  right: 179px;
+  width: 369px;
+  height: 62px;
+  /* UI Properties */
+  background: #f0efff 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+  @media screen and (max-width: 800px) {
+    .left,
+    .main,
+    .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
+}
+.s2 {
+  position: absolute;
+  top: 347px;
+  right: 179px;
+  width: 369px;
+  height: 62px;
+  /* UI Properties */
+  background: #f0efff 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+  @media screen and (max-width: 800px) {
+    .left,
+    .main,
+    .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
+}
+
+.s3 {
+  position: absolute;
+  top: 492px;
+  right: 179px;
+  bottom: 349px;
+  width: 369px;
+  height: 49px;
+  color: white;
+  background: #4d47c3 0% 0% no-repeat padding-box;
+  border-radius: 9px;
+  opacity: 1;
+  @media screen and (max-width: 800px) {
+    .left,
+    .main,
+    .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
+}
+.c1 {
+  position: absolute;
+  top: 183.66px;
+  right: 500px;
+  width: 31px;
+  height: 95px;
+  margin-left: 0px;
+  @media screen and (max-width: 800px) {
+    .left,
+    .main,
+    .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
+}
+.c4 {
+  position: absolute;
+  top: 431px;
+  right: 179px;
+  @media screen and (max-width: 800px) {
+    .left,
+    .main,
+    .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
+}
